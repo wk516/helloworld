@@ -12,6 +12,8 @@ func name(name string) {
 
 func menu() {
 	fmt.Println("1. Enter your name")
+	fmt.Println("2. Wave to me")
+
 }
 
 func main() {
