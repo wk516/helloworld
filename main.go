@@ -22,4 +22,5 @@ func main() {
 	print()
 	name("wenny")
 	name("siew tuck meng")
+	name("sook yoon")
 }
