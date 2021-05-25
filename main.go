@@ -21,5 +21,5 @@ func main() {
 	menu()
 	print()
 	name("wenny")
-	name(:siew tuck meng")
+	name("siew tuck meng")
 }
